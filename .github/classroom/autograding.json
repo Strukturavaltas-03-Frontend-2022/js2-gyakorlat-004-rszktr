@@ -19,16 +19,6 @@
       "comparison": "included",
       "timeout": 10,
       "points": 5
-    },
-    {
-      "name": "test03",
-      "setup": "npm install",
-      "run": "npm run test03",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 10
     }
   ]
 }
